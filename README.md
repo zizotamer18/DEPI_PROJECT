@@ -40,7 +40,7 @@ Model Training and Evaluation
   -	SMOTE: Used to balance the dataset by generating synthetic samples for the minority class, reducing bias and improving model performance on the minority class.
 Results
 
-  • The final model achieved an accuracy of 88.44%, providing valuable insights for employee retention strategies.
+  • The final model achieved an accuracy of 84.35%, providing valuable insights for employee retention strategies.
 
 
 License
